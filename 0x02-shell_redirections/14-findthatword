@@ -1,2 +1,2 @@
 #!/bin/bash
-eqrep "root" /etc/passwd
+eqrep 'root' /etc/passwd
